@@ -1,6 +1,6 @@
 MFC of C++.
   
-  I made this form March 2019 to July 2019.
+  I made this from March 2019 to July 2019.
 
 
 - 1 : In this project, you can create a rectangle with the left mouse button and a circle with the right mouse button.
