@@ -1,4 +1,4 @@
-  This Branch is in the area of MFC of C++.
+MFC of C++.
   
   I made this form March 2019 to July 2019.
 
